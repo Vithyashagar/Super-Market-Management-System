@@ -8,4 +8,4 @@ This is a Super market Management System web application developed using Java in
   - User Managemnt        - Mariyam 
   - Order Managemnt       - Yadhushika
   - Payment Managemnt     - Agil
-  - Delivery Managemnt    - Vithyashagar
+  - **Delivery Managemnt    - Vithyashagar**
